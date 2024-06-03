@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tfrony.github.io/sitemap/sitemap.txt
